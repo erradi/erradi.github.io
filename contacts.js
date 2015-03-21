@@ -15,7 +15,7 @@
   {
     "id": 2,
     "firstName": "Abbas",
-    "lastName": "Ibn Farnas",
+    "lastName": "Ibn Firnas",
     "phone": "6666-9999",
     "mobile": "9999-888",
     "email": "abbas@test.com",
