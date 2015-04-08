@@ -1,0 +1,27 @@
+[
+  {
+    "Id": 1,
+    "Title": "Excellent (Grade * 1)",
+    "Percentage": 1
+  },
+  {
+    "Id": 2,
+    "Title": "Good (Grade * 0.8)",
+    "Percentage": 0.8
+  },
+  {
+    "Id": 3,
+    "Title": "Satisfactory / Adequate (Grade * 0.6)",
+    "Percentage": 0.6
+  },
+  {
+    "Id": 4,
+    "Title": "Unsatisfactory (Grade * 0.4)",
+    "Percentage": 0.4
+  },
+  {
+    "Id": 5,
+    "Title": "Very Unsatisfactory (Grade * 0.1)",
+    "Percentage": 0.1
+  }
+]

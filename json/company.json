@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "name": "AlJazeera",
+        "street": "10 Aljazeera St",
+        "city": "Doha",
+        "phone": "5566-7788",
+        "website": "http://aljazeera.com",
+        "email": "aljazeera@test.com"
+    },
+    {
+        "id": 2,
+        "name": "Awqaf",
+        "street": "15 Awqaf St",
+        "city": "Doha",
+        "phone": "8899-0099",
+        "website": "http://awqaf.com",
+        "email": "awqaf@test.com"
+    },
+    {
+        "id": 3,
+        "name": "Ezdan Real Estate",
+        "street": "20 Ezdan St",
+        "city": "Doha",
+        "phone": "5566-7789",
+        "website": "http://ezdan.com",
+        "email": "ezdan@test.com"
+    },
+    {
+        "id": 4,
+        "name": "Kahramaa",
+        "street": "25 Kahramaa St",
+        "city": "Doha",
+        "phone": "8899-0100",
+        "website": "http://kahramaa.com",
+        "email": "kahramaa@test.com"
+    },
+    {
+        "id": 5,
+        "name": "Mada",
+        "street": "30 Mada St",
+        "city": "Doha",
+        "phone": "5566-7790",
+        "website": "http://mada.com",
+        "email": "mada@test.com"
+    },
+    {
+        "id": 6,
+        "name": "Masraf Al Rayan",
+        "street": "35 Masrafrayan St",
+        "city": "Doha",
+        "phone": "8899-0101",
+        "website": "http://masrafrayan.com",
+        "email": "masrafrayan@test.com"
+    },
+    {
+        "id": 7,
+        "name": "Medicare",
+        "street": "40 Medicare St",
+        "city": "Doha",
+        "phone": "5566-7791",
+        "website": "http://medicare.com",
+        "email": "medicare@test.com"
+    },
+    {
+        "id": 8,
+        "name": "Ministry of Development Planning and Statistics",
+        "street": "45 Mdps St",
+        "city": "Doha",
+        "phone": "8899-0102",
+        "website": "http://mdps.com",
+        "email": "mdps@test.com"
+    },
+    {
+        "id": 9,
+        "name": "Ministry of Interior",
+        "street": "50 Moi St",
+        "city": "Doha",
+        "phone": "5566-7792",
+        "website": "http://moi.com",
+        "email": "moi@test.com"
+    },
+    {
+        "id": 11,
+        "name": "Ooredoo",
+        "street": "60 Ooredoo St",
+        "city": "Doha",
+        "phone": "8899-0103",
+        "website": "http://ooredoo.com",
+        "email": "ooredoo@test.com"
+    },
+    {
+        "id": 12,
+        "name": "Qatar Airways",
+        "street": "65 Qatarairways St",
+        "city": "Doha",
+        "phone": "5566-7793",
+        "website": "http://qatarairways.com",
+        "email": "qatarairways@test.com"
+    },
+    {
+        "id": 13,
+        "name": "Qatar Gas",
+        "street": "70 Qatargas St",
+        "city": "Doha",
+        "phone": "8899-0104",
+        "website": "http://qatargas.com",
+        "email": "qatargas@test.com"
+    },
+    {
+        "id": 15,
+        "name": "Qatar Insurance",
+        "street": "80 Qatar Insurance St",
+        "city": "Doha",
+        "phone": "5566-7794",
+        "website": "http://qatar insurance.com",
+        "email": "qatar insurance@test.com"
+    },
+    {
+        "id": 16,
+        "name": "Qatar Islamic Bank",
+        "street": "85 Qib St",
+        "city": "Doha",
+        "phone": "8899-0105",
+        "website": "http://qib.com",
+        "email": "qib@test.com"
+    },
+    {
+        "id": 17,
+        "name": "Qatar National Bank",
+        "street": "90 Qnb St",
+        "city": "Doha",
+        "phone": "5566-7795",
+        "website": "http://qnb.com",
+        "email": "qnb@test.com"
+    },
+    {
+        "id": 18,
+        "name": "Qatar Rail",
+        "street": "95 Qatarrail St",
+        "city": "Doha",
+        "phone": "8899-0106",
+        "website": "http://qatarrail.com",
+        "email": "qatarrail@test.com"
+    },
+    {
+        "id": 19,
+        "name": "Qatar Robotic Surgery Centre",
+        "street": "100 Qrsc St",
+        "city": "Doha",
+        "phone": "5566-7796",
+        "website": "http://qrsc.com",
+        "email": "qrsc@test.com"
+    },
+    {
+        "id": 20,
+        "name": "Qatar Steel",
+        "street": "105 Qatarsteel St",
+        "city": "Doha",
+        "phone": "8899-0107",
+        "website": "http://qatarsteel.com",
+        "email": "qatarsteel@test.com"
+    },
+    {
+        "id": 21,
+        "name": "QCRI",
+        "street": "110 Qcri St",
+        "city": "Doha",
+        "phone": "5566-7797",
+        "website": "http://qcri.com",
+        "email": "qcri@test.com"
+    },
+    {
+        "id": 22,
+        "name": "RasGas",
+        "street": "115 Rasgas St",
+        "city": "Doha",
+        "phone": "8899-0108",
+        "website": "http://rasgas.com",
+        "email": "rasgas@test.com"
+    },
+    {
+        "id": 23,
+        "name": "Salam International",
+        "street": "120 Salam St",
+        "city": "Doha",
+        "phone": "5566-7798",
+        "website": "http://salam.com",
+        "email": "salam@test.com"
+    },
+    {
+        "id": 24,
+        "name": "Thales",
+        "street": "125 Thales St",
+        "city": "Doha",
+        "phone": "8899-0109",
+        "website": "http://thales.com",
+        "email": "thales@test.com"
+    },
+    {
+        "id": 25,
+        "name": "Vodafone Qatar",
+        "street": "130 Vodafone St",
+        "city": "Doha",
+        "phone": "5566-7799",
+        "website": "http://vodafone.com",
+        "email": "vodafone@test.com"
+    },
+    {
+        "id": 26,
+        "name": "Woqod",
+        "street": "135 Woqod St",
+        "city": "Doha",
+        "phone": "8899-0110",
+        "website": "http://woqod.com",
+        "email": "woqod@test.com"
+    }
+]

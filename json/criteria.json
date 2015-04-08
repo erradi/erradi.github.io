@@ -1,0 +1,51 @@
+[
+  {
+    "Id": 1,
+    "Title": "Requirements specification of the internship project",
+    "Description": "- Problem has been clearly stated and its significance discussed.<br>- Clear definition of the internship project requirements with specific deliverables.<br>- Requirements specification documented with adequate level of details using suitable methods and tools such as use cases.<br>- Clear and realistic project timeline is given",
+    "Category": "Report",
+    "Grade": 15
+  },
+  {
+    "Id": 2,
+    "Title": "Solution design, implementation and testing",
+    "Description": "- The project solution design and implementation presented with adequate level of details with justification of design choices.<br>- The solution documented using suitable methods and tools.<br>- If applicable, evidence presented of sufficient testing of the solution confirming that the system has been successfully implemented and meets the requirements. Testing results presented with appropriate level of details with accuracy and completeness.<br>- If applicable, the solution deployment is presented with adequate level of details.",
+    "Category": "Report",
+    "Grade": 40
+  },
+  {
+    "Id": 3,
+    "Title": "Conclusions and Reflections",
+    "Description": "- Conclusions drawn were appropriate and well-supported by the work done<br>- Detailed student reflections and detailed internship learning outcomes well-supported by the work<br>- Ideas for future work presented",
+    "Category": "Report",
+    "Grade": 12
+  },
+  {
+    "Id": 4,
+    "Title": "Quality of the report organization and writing style",
+    "Description": "- Well-structured: each section has a clear and unique function. Hierarchy of sections is correct. Ordering of sections is logical.<br>- Appropriate writing style, grammar, spelling and proper citation of references.<br>- Level of detail is appropriate throughout.<br>- Engineering and technical terms are used correctly. <br>- All figures, equations, graphs, charts, and drawings are accurate, numbered with a title, consistent with the text, and of good quality.  They enhance understanding of the text.",
+    "Category": "Presentation",
+    "Grade": 8
+  },
+  {
+    "Id": 5,
+    "Title": "Organization",
+    "Description": "- Presentation well-organized and clearly structured: information presented in logical and interesting sequence that the audience can easily follow.<br>- Good quality and neat visual aids with good use of graphs and graphics.",
+    "Category": "Presentation",
+    "Grade": 5
+  },
+  {
+    "Id": 6,
+    "Title": "Technical Content",
+    "Description": "- Presentation provides pertinent, concise to-the-point and clearly explained information.<br>- Material is covered with adequate depth.",
+    "Category": "Presentation",
+    "Grade": 6
+  },
+  {
+    "Id": 7,
+    "Title": "Delivery",
+    "Description": "- Relaxed and lively though understandable talk with high level of confidence and enthusiasm.<br>- Speaks clearly and uses appropriate language such that it keeps audience’s attention<br>- Presenter added value to slides (as opposed to merely reading them)<br>- Meets time limit (20 minutes).<br>- Adequately answering the questions: student is able to give appropriate, clear and to-the-point answers to the questions.",
+    "Category": "Presentation",
+    "Grade": 14
+  }
+]

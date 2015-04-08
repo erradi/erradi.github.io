@@ -1,0 +1,167 @@
+[
+  {
+    "StaffNo": 500,
+    "Username": "coordinator",
+    "FirstName": "Facilitator",
+    "LastName": "Coordinator",
+    "Email": "coordinator@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE100",
+    "Department": "CSE",
+    "IsCoordinator": 1
+  },
+  {
+    "StaffNo": 501,
+    "Username": "faculty1",
+    "FirstName": "Fn1",
+    "LastName": "Ln1",
+    "Email": "faculty1@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE101",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 502,
+    "Username": "faculty2",
+    "FirstName": "Fn2",
+    "LastName": "Ln2",
+    "Email": "faculty2@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE102",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 503,
+    "Username": "faculty3",
+    "FirstName": "Fn3",
+    "LastName": "Ln3",
+    "Email": "faculty3@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE103",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 504,
+    "Username": "faculty4",
+    "FirstName": "Fn4",
+    "LastName": "Ln4",
+    "Email": "faculty4@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE104",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 505,
+    "Username": "faculty5",
+    "FirstName": "Fn5",
+    "LastName": "Ln5",
+    "Email": "faculty5@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE105",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 506,
+    "Username": "faculty6",
+    "FirstName": "Fn6",
+    "LastName": "Ln6",
+    "Email": "faculty6@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE106",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 507,
+    "Username": "faculty7",
+    "FirstName": "Fn7",
+    "LastName": "Ln7",
+    "Email": "faculty7@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE107",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 508,
+    "Username": "faculty8",
+    "FirstName": "Fn8",
+    "LastName": "Ln8",
+    "Email": "faculty8@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE108",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 509,
+    "Username": "faculty9",
+    "FirstName": "Fn9",
+    "LastName": "Ln9",
+    "Email": "faculty9@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE109",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 510,
+    "Username": "faculty10",
+    "FirstName": "Fn10",
+    "LastName": "Ln10",
+    "Email": "faculty10@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE110",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 511,
+    "Username": "faculty11",
+    "FirstName": "Fn11",
+    "LastName": "Ln11",
+    "Email": "faculty11@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE111",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 512,
+    "Username": "faculty12",
+    "FirstName": "Fn12",
+    "LastName": "Ln12",
+    "Email": "faculty12@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE112",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 513,
+    "Username": "faculty13",
+    "FirstName": "Fn13",
+    "LastName": "Ln13",
+    "Email": "faculty13@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE113",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  },
+  {
+    "StaffNo": 514,
+    "Username": "faculty14",
+    "FirstName": "Fn14",
+    "LastName": "Ln14",
+    "Email": "faculty14@qu.edu.qa",
+    "Password": "password",
+    "OfficeNumber": "CSE114",
+    "Department": "CSE",
+    "IsCoordinator": 0
+  }
+]
