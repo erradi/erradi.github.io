@@ -24,7 +24,7 @@
     "Id": 4,
     "Title": "Quality of the report organization and writing style",
     "Description": "- Well-structured: each section has a clear and unique function. Hierarchy of sections is correct. Ordering of sections is logical.<br>- Appropriate writing style, grammar, spelling and proper citation of references.<br>- Level of detail is appropriate throughout.<br>- Engineering and technical terms are used correctly. <br>- All figures, equations, graphs, charts, and drawings are accurate, numbered with a title, consistent with the text, and of good quality.  They enhance understanding of the text.",
-    "Category": "Presentation",
+    "Category": "Report",
     "Grade": 8
   },
   {
@@ -44,7 +44,7 @@
   {
     "Id": 7,
     "Title": "Delivery",
-    "Description": "- Relaxed and lively though understandable talk with high level of confidence and enthusiasm.<br>- Speaks clearly and uses appropriate language such that it keeps audience’s attention<br>- Presenter added value to slides (as opposed to merely reading them)<br>- Meets time limit (20 minutes).<br>- Adequately answering the questions: student is able to give appropriate, clear and to-the-point answers to the questions.",
+    "Description": "- Relaxed and lively though understandable talk with high level of confidence and enthusiasm.<br>- Speaks clearly and uses appropriate language such that it keeps audienceâ€™s attention<br>- Presenter added value to slides (as opposed to merely reading them)<br>- Meets time limit (20 minutes).<br>- Adequately answering the questions: student is able to give appropriate, clear and to-the-point answers to the questions.",
     "Category": "Presentation",
     "Grade": 14
   }
