@@ -9,7 +9,7 @@
     "address": {
       "street": "5 Test St",
       "city": "Doha",
-      "country": "Qatar"
+      "country": "QA"
     }
   },
   {
@@ -22,7 +22,7 @@
     "address": {
       "street": "50 Test St",
       "city": "Doha",
-      "country": "Qatar"
+      "country": "QA"
     }
   },
   {
@@ -35,7 +35,7 @@
     "address": {
       "street": "22 Aspire St",
       "city": "Dubai",
-      "country": "UAE"
+      "country": "AE"
     }
   },
   {
@@ -48,7 +48,7 @@
     "address": {
       "street": "33 Salman St",
       "city": "Jeddah",
-      "country": "Saudi"
+      "country": "SA"
     }
   }
 ]
