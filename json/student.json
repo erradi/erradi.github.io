@@ -1,398 +1,83 @@
 [
   {
-    "studentId": 101,
-    "username": "student1",
-    "firstName": "Fn1",
-    "lastName": "Ln1",
-    "email": "fn1@qu.edu.qa",
+    "qatariId": 12,
+    "firstName": "Juha",
+    "lastName": "Dahak",
+    "mobile": "7777-888",
+    "email": "juha@test.com",
+    "username": "juha",
     "password": "password",
-    "major": "CS",
-    "completedCHs": 90,
-    "gpa": 3.8
+    "students":[
+        {
+            "studentId": 1,
+            "firstName": "Ibn Juha",
+            "lastName": "Dahak",
+            "dob": "1/1/2009",
+            "gender": "M",
+            "schoolGrade": 4
+        },
+        {
+            "studentId": 2,
+            "firstName": "Bint Juha",
+            "lastName": "Dahak",
+            "dob": "1/5/2011",
+            "gender": "F",
+            "schoolGrade": 2
+        }
+    ]
   },
   {
-    "studentId": 102,
-    "username": "student2",
-    "firstName": "Fn2",
-    "lastName": "Ln2",
-    "email": "fn2@qu.edu.qa",
+    "qatariId": 34,
+    "firstName": "Abbas",
+    "lastName": "Ibn Firnas",
+    "mobile": "9999-888",
+    "email": "abbas@test.com",
+    "username": "abbas",
     "password": "password",
-    "major": "CS",
-    "completedCHs": 80,
-    "gpa": 3.75
+        "students":[
+        {
+            "studentId": 3,
+            "firstName": "Ibn Abbas",
+            "lastName": "Ibn Firnas",
+            "dob": "1/2/2008",
+            "gender": "M",
+            "schoolGrade": 5
+        },
+        {
+            "studentId": 4,
+            "firstName": "Bint Abbas",
+            "lastName": "Ibn Firnas",
+            "dob": "1/3/2012",
+            "gender": "F",
+            "schoolGrade": 2
+        }
+    ]
   },
   {
-    "studentId": 103,
-    "username": "student3",
-    "firstName": "Fn3",
-    "lastName": "Ln3",
-    "email": "fn3@qu.edu.qa",
+    "qatariId": 56,
+    "firstName": "Samira",
+    "lastName": "Saghir",
+    "mobile": "9999-888",
+    "email": "samira@test.com",
+    "username": "samira",
     "password": "password",
-    "major": "CS",
-    "completedCHs": 99,
-    "gpa": 3.47
-  },
-  {
-    "studentId": 104,
-    "username": "student4",
-    "firstName": "Fn4",
-    "lastName": "Ln4",
-    "email": "fn4@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 92,
-    "gpa": 3.64
-  },
-  {
-    "studentId": 105,
-    "username": "student5",
-    "firstName": "Fn5",
-    "lastName": "Ln5",
-    "email": "fn5@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 80,
-    "gpa": 3.87
-  },
-  {
-    "studentId": 106,
-    "username": "student6",
-    "firstName": "Fn6",
-    "lastName": "Ln6",
-    "email": "fn6@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 93,
-    "gpa": 3.82
-  },
-  {
-    "studentId": 107,
-    "username": "student7",
-    "firstName": "Fn7",
-    "lastName": "Ln7",
-    "email": "fn7@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 102,
-    "gpa": 3.91
-  },
-  {
-    "studentId": 108,
-    "username": "student8",
-    "firstName": "Fn8",
-    "lastName": "Ln8",
-    "email": "fn8@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 95,
-    "gpa": 3.69
-  },
-  {
-    "studentId": 109,
-    "username": "student9",
-    "firstName": "Fn9",
-    "lastName": "Ln9",
-    "email": "fn9@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 106,
-    "gpa": 3.08
-  },
-  {
-    "studentId": 110,
-    "username": "student10",
-    "firstName": "Fn10",
-    "lastName": "Ln10",
-    "email": "fn10@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 90,
-    "gpa": 2.31
-  },
-  {
-    "studentId": 111,
-    "username": "student11",
-    "firstName": "Fn11",
-    "lastName": "Ln11",
-    "email": "fn11@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 93,
-    "gpa": 3.01
-  },
-  {
-    "studentId": 112,
-    "username": "student12",
-    "firstName": "Fn12",
-    "lastName": "Ln12",
-    "email": "fn12@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 83,
-    "gpa": 3.26
-  },
-  {
-    "studentId": 113,
-    "username": "student13",
-    "firstName": "Fn13",
-    "lastName": "Ln13",
-    "email": "fn13@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 96,
-    "gpa": 2.6
-  },
-  {
-    "studentId": 114,
-    "username": "student14",
-    "firstName": "Fn14",
-    "lastName": "Ln14",
-    "email": "fn14@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 85,
-    "gpa": 2.59
-  },
-  {
-    "studentId": 115,
-    "username": "student15",
-    "firstName": "Fn15",
-    "lastName": "Ln15",
-    "email": "fn15@qu.edu.qa",
-    "password": "password",
-    "major": "CS",
-    "completedCHs": 97,
-    "gpa": 3.6
-  },
-  {
-    "studentId": 116,
-    "username": "student16",
-    "firstName": "Fn16",
-    "lastName": "Ln16",
-    "email": "fn16@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 106,
-    "gpa": 2.84
-  },
-  {
-    "studentId": 117,
-    "username": "student17",
-    "firstName": "Fn17",
-    "lastName": "Ln17",
-    "email": "fn17@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 96,
-    "gpa": 3.1
-  },
-  {
-    "studentId": 118,
-    "username": "student18",
-    "firstName": "Fn18",
-    "lastName": "Ln18",
-    "email": "fn18@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 104,
-    "gpa": 3.95
-  },
-  {
-    "studentId": 119,
-    "username": "student19",
-    "firstName": "Fn19",
-    "lastName": "Ln19",
-    "email": "fn19@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 98,
-    "gpa": 2.37
-  },
-  {
-    "studentId": 120,
-    "username": "student20",
-    "firstName": "Fn20",
-    "lastName": "Ln20",
-    "email": "fn20@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 85,
-    "gpa": 3.77
-  },
-  {
-    "studentId": 121,
-    "username": "student21",
-    "firstName": "Fn21",
-    "lastName": "Ln21",
-    "email": "fn21@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 91,
-    "gpa": 3.84
-  },
-  {
-    "studentId": 122,
-    "username": "student22",
-    "firstName": "Fn22",
-    "lastName": "Ln22",
-    "email": "fn22@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 84,
-    "gpa": 2.97
-  },
-  {
-    "studentId": 123,
-    "username": "student23",
-    "firstName": "Fn23",
-    "lastName": "Ln23",
-    "email": "fn23@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 109,
-    "gpa": 2.95
-  },
-  {
-    "studentId": 124,
-    "username": "student24",
-    "firstName": "Fn24",
-    "lastName": "Ln24",
-    "email": "fn24@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 107,
-    "gpa": 3.13
-  },
-  {
-    "studentId": 125,
-    "username": "student25",
-    "firstName": "Fn25",
-    "lastName": "Ln25",
-    "email": "fn25@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 94,
-    "gpa": 3.49
-  },
-  {
-    "studentId": 126,
-    "username": "student26",
-    "firstName": "Fn26",
-    "lastName": "Ln26",
-    "email": "fn26@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 95,
-    "gpa": 3.59
-  },
-  {
-    "studentId": 127,
-    "username": "student27",
-    "firstName": "Fn27",
-    "lastName": "Ln27",
-    "email": "fn27@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 92,
-    "gpa": 2.3
-  },
-  {
-    "studentId": 128,
-    "username": "student28",
-    "firstName": "Fn28",
-    "lastName": "Ln28",
-    "email": "fn28@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 87,
-    "gpa": 3.54
-  },
-  {
-    "studentId": 129,
-    "username": "student29",
-    "firstName": "Fn29",
-    "lastName": "Ln29",
-    "email": "fn29@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 94,
-    "gpa": 3.8
-  },
-  {
-    "studentId": 130,
-    "username": "student30",
-    "firstName": "Fn30",
-    "lastName": "Ln30",
-    "email": "fn30@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 87,
-    "gpa": 3.9
-  },
-  {
-    "studentId": 131,
-    "username": "student31",
-    "firstName": "Fn31",
-    "lastName": "Ln31",
-    "email": "fn31@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 101,
-    "gpa": 2.29
-  },
-  {
-    "studentId": 132,
-    "username": "student32",
-    "firstName": "Fn32",
-    "lastName": "Ln32",
-    "email": "fn32@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 97,
-    "gpa": 2.58
-  },
-  {
-    "studentId": 133,
-    "username": "student33",
-    "firstName": "Fn33",
-    "lastName": "Ln33",
-    "email": "fn33@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 86,
-    "gpa": 2.47
-  },
-  {
-    "studentId": 134,
-    "username": "student34",
-    "firstName": "Fn34",
-    "lastName": "Ln34",
-    "email": "fn34@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 100,
-    "gpa": 2.48
-  },
-  {
-    "studentId": 135,
-    "username": "student35",
-    "firstName": "Fn35",
-    "lastName": "Ln35",
-    "email": "fn35@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 97,
-    "gpa": 3
-  },
-  {
-    "studentId": 136,
-    "username": "student36",
-    "firstName": "Fn36",
-    "lastName": "Ln36",
-    "email": "fn36@qu.edu.qa",
-    "password": "password",
-    "major": "CE",
-    "completedCHs": 96,
-    "gpa": 2.09
+     "students":[
+        {
+            "studentId": 5,
+            "firstName": "Ibn Samira",
+            "lastName": "Saghir",
+            "dob": "1/2/2007",
+            "gender": "M",
+            "schoolGrade": 6
+        },
+        {
+            "studentId": 6,
+            "firstName": "Bint Samira",
+            "lastName": "Saghir",
+            "dob": "1/3/2010",
+            "gender": "F",
+            "schoolGrade": 3
+        }
+    ]
   }
 ]
