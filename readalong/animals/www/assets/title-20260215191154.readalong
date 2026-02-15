@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<read-along version="1.2">
+    <meta name="generator" content="@readalongs/studio (cli) 1.2.1" id="meta0"/>
+    <text xml:lang="und" fallback-langs="und" id="t0">
+        <body id="t0b0">
+            <div type="page" id="t0b0d0">
+                <p id="t0b0d0p0">
+                    <s id="t0b0d0p0s0"><w id="t0b0d0p0s0w0" ARPABET="AA N IY M AA L S" time="1.24" dur="0.74">Animals</w> <w id="t0b0d0p0s0w1" ARPABET="L IY V EY" time="2.29" dur="0.55">live</w> <w id="t0b0d0p0s0w2" ARPABET="AA L L" time="3.16" dur="0.59">all</w> <w id="t0b0d0p0s0w3" ARPABET="AA D OW UW N D" time="3.75" dur="0.62">around</w> <w id="t0b0d0p0s0w4" ARPABET="UW S" time="4.37" dur="0.35">us</w>. <w id="t0b0d0p0s0w5" ARPABET="S OW M EY" time="5.25" dur="0.4">Some</w> <w id="t0b0d0p0s0w6" ARPABET="AA N IY M AA L S" time="5.65" dur="0.73">animals</w> <w id="t0b0d0p0s0w7" ARPABET="L IY V EY" time="6.6" dur="0.39">live</w> <w id="t0b0d0p0s0w8" ARPABET="OW N" time="6.99" dur="0.27">on</w> <w id="t0b0d0p0s0w9" ARPABET="F AA D M S HH" time="7.26" dur="0.76">farms,</w> <w id="t0b0d0p0s0w10" ARPABET="S OW M EY" time="8.48" dur="0.45">some</w> <w id="t0b0d0p0s0w11" ARPABET="L IY V EY" time="8.93" dur="0.37">live</w> <w id="t0b0d0p0s0w12" ARPABET="IY N" time="9.3" dur="0.4">in</w> <w id="t0b0d0p0s0w13" ARPABET="T HH EY" time="9.7" dur="0.13">the</w> <w id="t0b0d0p0s0w14" ARPABET="F OW D EY S T HH" time="9.83" dur="0.75">forest,</w> <w id="t0b0d0p0s0w15" ARPABET="AA N D" time="11.13" dur="0.35">and</w> <w id="t0b0d0p0s0w16" ARPABET="OW T HH EY D S" time="11.48" dur="0.53">others</w> <w id="t0b0d0p0s0w17" ARPABET="L IY V EY" time="12.3" dur="0.53">live</w> <w id="t0b0d0p0s0w18" ARPABET="IY N" time="13.09" dur="0.23">in</w> <w id="t0b0d0p0s0w19" ARPABET="T HH EY" time="13.32" dur="0.1">the</w> <w id="t0b0d0p0s0w20" ARPABET="S EY AA" time="13.42" dur="0.4">sea</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-0.png"/></div>
+            <div type="page" id="t0b0d1">
+                <p id="t0b0d1p0">
+                    <s id="t0b0d1p0s0"><w id="t0b0d1p0s0w0" ARPABET="AA" time="15.26" dur="0.25">A</w> <w id="t0b0d1p0s0w1" ARPABET="CH OW W" time="15.51" dur="0.2">cow</w> <w id="t0b0d1p0s0w2" ARPABET="L IY V EY S" time="16.05" dur="0.6">lives</w> <w id="t0b0d1p0s0w3" ARPABET="OW N" time="16.76" dur="0.22">on</w> <w id="t0b0d1p0s0w4" ARPABET="AA" time="16.98" dur="0.05">a</w> <w id="t0b0d1p0s0w5" ARPABET="F AA D M" time="17.03" dur="0.75">farm</w>. <w id="t0b0d1p0s0w6" ARPABET="IY T" time="18.47" dur="0.31">It</w> <w id="t0b0d1p0s0w7" ARPABET="EY AA T S" time="18.78" dur="0.38">eats</w> <w id="t0b0d1p0s0w8" ARPABET="G D AA S S" time="19.16" dur="0.74">grass</w> <w id="t0b0d1p0s0w9" ARPABET="AA N D" time="20.23" dur="0.2">and</w> <w id="t0b0d1p0s0w10" ARPABET="G IY V EY S" time="20.43" dur="0.35">gives</w> <w id="t0b0d1p0s0w11" ARPABET="M IY L K" time="20.78" dur="0.57">milk</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-1.png"/></div>
+            <div type="page" id="t0b0d2">
+                <p id="t0b0d2p0">
+                    <s id="t0b0d2p0s0"><w id="t0b0d2p0s0w0" ARPABET="AA" time="22.12" dur="0.05">A</w> <w id="t0b0d2p0s0w1" ARPABET="D OW G" time="22.17" dur="0.68">dog</w> <w id="t0b0d2p0s0w2" ARPABET="L IY V EY S" time="23.1" dur="0.43">lives</w> <w id="t0b0d2p0s0w3" ARPABET="W IY T HH" time="23.53" dur="0.23">with</w> <w id="t0b0d2p0s0w4" ARPABET="P EY OW P L EY" time="23.76" dur="0.6">people</w>. <w id="t0b0d2p0s0w5" ARPABET="IY T" time="25.23" dur="0.22">It</w> <w id="t0b0d2p0s0w6" ARPABET="IY S" time="25.45" dur="0.18">is</w> <w id="t0b0d2p0s0w7" ARPABET="F D IY EY N D L Y" time="25.63" dur="1.11">friendly</w> <w id="t0b0d2p0s0w8" ARPABET="AA N D" time="26.74" dur="0.58">and</w> <w id="t0b0d2p0s0w9" ARPABET="HH EY L P S" time="27.32" dur="0.74">helps</w> <w id="t0b0d2p0s0w10" ARPABET="HH UW M AA N S" time="29.16" dur="0.47">humans</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-2.png"/></div>
+            <div type="page" id="t0b0d3">
+                <p id="t0b0d3p0">
+                    <s id="t0b0d3p0s0"><w id="t0b0d3p0s0w0" ARPABET="W IY L D" time="29.63" dur="0.21">Wild</w> <w id="t0b0d3p0s0w1" ARPABET="AA N IY M AA L S" time="29.84" dur="0.82">animals</w> <w id="t0b0d3p0s0w2" ARPABET="L IY V EY" time="31" dur="1.09">live</w> <w id="t0b0d3p0s0w3" ARPABET="IY N" time="32.09" dur="0.06">in</w> <w id="t0b0d3p0s0w4" ARPABET="N AA T UW D EY" time="32.15" dur="0.21">nature</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-3.png"/></div>
+            <div type="page" id="t0b0d4">
+                <p id="t0b0d4p0">
+                    <s id="t0b0d4p0s0"><w id="t0b0d4p0s0w0" ARPABET="AA" time="33.86" dur="0.15">A</w> <w id="t0b0d4p0s0w1" ARPABET="L IY OW N" time="34.01" dur="0.5">lion</w> <w id="t0b0d4p0s0w2" ARPABET="L IY V EY S" time="34.76" dur="0.56">lives</w> <w id="t0b0d4p0s0w3" ARPABET="IY N" time="35.63" dur="0.25">in</w> <w id="t0b0d4p0s0w4" ARPABET="T HH EY" time="35.88" dur="0.11">the</w> <w id="t0b0d4p0s0w5" ARPABET="F OW D EY S T" time="35.99" dur="0.78">forest</w>. <w id="t0b0d4p0s0w6" ARPABET="IY T" time="37.53" dur="0.31">It</w> <w id="t0b0d4p0s0w7" ARPABET="EY AA T S" time="37.84" dur="0.43">eats</w> <w id="t0b0d4p0s0w8" ARPABET="M EY AA T" time="38.27" dur="0.56">meat</w> <w id="t0b0d4p0s0w9" ARPABET="AA N D" time="39.09" dur="0.17">and</w> <w id="t0b0d4p0s0w10" ARPABET="S L EY EY P S" time="39.26" dur="0.54">sleeps</w> <w id="t0b0d4p0s0w11" ARPABET="D UW D IY N G" time="39.8" dur="0.55">during</w> <w id="t0b0d4p0s0w12" ARPABET="T HH EY" time="40.35" dur="0.36">the</w> <w id="t0b0d4p0s0w13" ARPABET="D AA Y" time="41.84" dur="0.09">day</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-4.png"/></div>
+            <div type="page" id="t0b0d5">
+                <p id="t0b0d5p0">
+                    <s id="t0b0d5p0s0"><w id="t0b0d5p0s0w0" ARPABET="AA N" time="41.93" dur="0.06">An</w> <w id="t0b0d5p0s0w1" ARPABET="EY L EY P HH AA N T" time="41.99" dur="1.09">elephant</w> <w id="t0b0d5p0s0w2" ARPABET="IY S" time="43.08" dur="0.21">is</w> <w id="t0b0d5p0s0w3" ARPABET="B IY G" time="43.29" dur="0.44">big</w> <w id="t0b0d5p0s0w4" ARPABET="AA N D" time="44.25" dur="0.18">and</w> <w id="t0b0d5p0s0w5" ARPABET="S T D OW N G" time="44.43" dur="0.85">strong</w>. <w id="t0b0d5p0s0w6" ARPABET="IY T" time="46.01" dur="0.37">It</w> <w id="t0b0d5p0s0w7" ARPABET="EY AA T S" time="46.38" dur="0.46">eats</w> <w id="t0b0d5p0s0w8" ARPABET="P L AA N T S" time="46.84" dur="1.05">plants</w> <w id="t0b0d5p0s0w9" ARPABET="AA N D" time="48.23" dur="0.17">and</w> <w id="t0b0d5p0s0w10" ARPABET="D D IY N K S" time="48.4" dur="0.65">drinks</w> <w id="t0b0d5p0s0w11" ARPABET="AA" time="49.24" dur="0.04">a</w> <w id="t0b0d5p0s0w12" ARPABET="L OW T" time="49.28" dur="0.45">lot</w> <w id="t0b0d5p0s0w13" ARPABET="OW F" time="49.73" dur="0.23">of</w> <w id="t0b0d5p0s0w14" ARPABET="W AA T EY D" time="49.96" dur="0.59">water</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-5.png"/></div>
+            <div type="page" id="t0b0d6">
+                <p id="t0b0d6p0">
+                    <s id="t0b0d6p0s0"><w id="t0b0d6p0s0w0" ARPABET="AA N IY M AA L S" time="52.03" dur="0.83">Animals</w> <w id="t0b0d6p0s0w1" ARPABET="HH AA V EY" time="53.03" dur="0.35">have</w> <w id="t0b0d6p0s0w2" ARPABET="HH OW M EY S" time="53.38" dur="0.68">homes</w> <w id="t0b0d6p0s0w3" ARPABET="AA N D" time="54.2" dur="0.21">and</w> <w id="t0b0d6p0s0w4" ARPABET="B AA B IY EY S" time="54.41" dur="0.81">babies</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-6.png"/></div>
+            <div type="page" id="t0b0d7">
+                <p id="t0b0d7p0">
+                    <s id="t0b0d7p0s0"><w id="t0b0d7p0s0w0" ARPABET="AA" time="56.08" dur="0.03">A</w> <w id="t0b0d7p0s0w1" ARPABET="B IY D D" time="56.11" dur="0.69">bird</w> <w id="t0b0d7p0s0w2" ARPABET="L IY V EY S" time="57.17" dur="0.78">lives</w> <w id="t0b0d7p0s0w3" ARPABET="IY N" time="58.77" dur="0.2">in</w> <w id="t0b0d7p0s0w4" ARPABET="AA" time="58.97" dur="0.03">a</w> <w id="t0b0d7p0s0w5" ARPABET="N EY S T" time="59" dur="0.65">nest</w> <w id="t0b0d7p0s0w6" ARPABET="AA N D" time="59.94" dur="0.15">and</w> <w id="t0b0d7p0s0w7" ARPABET="L AA Y S" time="60.09" dur="0.62">lays</w> <w id="t0b0d7p0s0w8" ARPABET="EY G G S" time="60.83" dur="0.56">eggs</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-7.png"/></div>
+            <div type="page" id="t0b0d8">
+                <p id="t0b0d8p0">
+                    <s id="t0b0d8p0s0"><w id="t0b0d8p0s0w0" ARPABET="AA" time="62.61" dur="0.03">A</w> <w id="t0b0d8p0s0w1" ARPABET="CH AA T" time="62.64" dur="0.46">cat</w> <w id="t0b0d8p0s0w2" ARPABET="L IY V EY S" time="64.88" dur="0.49">lives</w> <w id="t0b0d8p0s0w3" ARPABET="IY N" time="65.61" dur="0.22">in</w> <w id="t0b0d8p0s0w4" ARPABET="AA" time="65.83" dur="0.33">a</w> <w id="t0b0d8p0s0w5" ARPABET="HH OW UW S EY" time="66.16" dur="0.26">house</w> <w id="t0b0d8p0s0w6" ARPABET="AA N D" time="66.68" dur="0.15">and</w> <w id="t0b0d8p0s0w7" ARPABET="HH AA S" time="66.83" dur="0.26">has</w> <w id="t0b0d8p0s0w8" ARPABET="K IY T T EY N S" time="67.09" dur="0.7">kittens</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-8.png"/></div>
+            <div type="page" id="t0b0d9">
+                <p id="t0b0d9p0">
+                    <s id="t0b0d9p0s0"><w id="t0b0d9p0s0w0" ARPABET="AA N IY M AA L S" time="68.55" dur="0.57">Animals</w> <w id="t0b0d9p0s0w1" ARPABET="HH EY L P" time="69.12" dur="0.17">help</w> <w id="t0b0d9p0s0w2" ARPABET="P EY OW P L EY" time="69.29" dur="0.81">people</w> <w id="t0b0d9p0s0w3" ARPABET="IY N" time="70.1" dur="0.72">in</w> <w id="t0b0d9p0s0w4" ARPABET="M AA N Y" time="70.82" dur="0.36">many</w> <w id="t0b0d9p0s0w5" ARPABET="W AA Y S" time="71.18" dur="0.54">ways</w>. <w id="t0b0d9p0s0w6" ARPABET="T HH EY Y" time="72.72" dur="0.23">They</w> <w id="t0b0d9p0s0w7" ARPABET="G IY V EY" time="72.95" dur="0.24">give</w> <w id="t0b0d9p0s0w8" ARPABET="F OW OW D HH" time="73.19" dur="0.75">food,</w> <w id="t0b0d9p0s0w9" ARPABET="HH EY L P" time="74.57" dur="0.29">help</w> <w id="t0b0d9p0s0w10" ARPABET="W IY T HH" time="74.86" dur="0.43">with</w> <w id="t0b0d9p0s0w11" ARPABET="W OW D K HH" time="75.29" dur="0.52">work,</w> <w id="t0b0d9p0s0w12" ARPABET="AA N D" time="76.47" dur="0.1">and</w> <w id="t0b0d9p0s0w13" ARPABET="M AA K EY" time="76.57" dur="0.28">make</w> <w id="t0b0d9p0s0w14" ARPABET="P EY OW P L EY" time="76.85" dur="0.65">people</w> <w id="t0b0d9p0s0w15" ARPABET="HH AA P P Y" time="77.5" dur="0.48">happy</w>.</s>
+                </p>
+            <graphic url="image-title-20260215191154-9.png"/></div>
+        </body>
+    </text>
+</read-along>
